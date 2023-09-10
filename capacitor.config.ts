@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'first-app',
+  appId: 'com.tiffinservice.firstApp',
+  appName: 'First App',
   webDir: 'www',
   server: {
     androidScheme: 'https'
